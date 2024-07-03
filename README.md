@@ -1,5 +1,5 @@
 # declarative-samples-java-app
-A sample Java application written in the Declarative Gradle DSL, using the prototype Declarative Java `javaApplication` Software Type defined in the `org.gradle.experimental.jvm-ecosystem` ecosystem plugin.
+A sample Java application written in the Declarative Gradle DSL, using the prototype Declarative Gradle `javaApplication` Software Type defined in the `org.gradle.experimental.jvm-ecosystem` ecosystem plugin.
 
 ## Building and Running
 

@@ -15,7 +15,7 @@ include("app")
 include("list")
 include("utilities")
 
-conventions {
+defaults {
     javaLibrary {
         javaVersion = 21
 

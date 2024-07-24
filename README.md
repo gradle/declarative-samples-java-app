@@ -3,7 +3,7 @@ A sample Java application written in the Declarative Gradle DSL, using the proto
 
 ## Building and Running
 
-This sample shows the definition of a multiproject Java application implemented using Java 21 source code.
+This sample shows the definition of a multiproject Java application implemented using Java 17 source code.
 The project is the result of converting the project produced by the `gradle init` command in Gradle 8.9.
 
 To build and test the application without running, use:

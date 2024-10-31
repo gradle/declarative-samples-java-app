@@ -6,11 +6,7 @@ pluginManagement {
 }
 
 plugins {
-    id("org.gradle.experimental.jvm-ecosystem").version("0.1.19")
-}
-
-dependencyResolutionManagement {
-    repositoriesMode = PREFER_PROJECT
+    id("org.gradle.experimental.jvm-ecosystem").version("0.1.21")
 }
 
 rootProject.name = "example-java-app"
